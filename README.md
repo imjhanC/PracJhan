@@ -1,2 +1,2 @@
 # Prac
-prac3
+Practical 3
